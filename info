@@ -1,1 +1,7 @@
-# Supplemental Information
+# CALIGOLA
+
+The Cloud Aerosol Lidar for Global Scale Observations of the Ocean-Land-Atmosphere System (CALIGOLA) is the primary instrument of an upcoming satellite mission being led by the Italian Space Agency (ASI).  The mission is currently in Phase A of implementation.  Beginning in 2022, ASI and NASA have been discussing the potential of CALIGOLA being a joint agency mission.  CALIGOLA is currently in Implementation Phase A.  ASI intends to go forward with CALIGOLA toward a 2029 launch with or without NASA involvement, but if a partnership is established ASI will be responsible for providing the laser system, satellite platform, spacecraft, and launch vehicle while NASA will be responsible for providing the detector system, ground stations, data handling, and data storage.  CALIGOLA lasers are being developed by Leonardo and will have emissions at 355, 532, and 1064 nm.  The detector system may include as many as 11 channels (317, 355, 405, 450, 466, 532, and 1064 nm co-polarized and 355, 532, and 1064 nm cross-polarized).
+
+An official CALIGOLA website has not yet been created.
+
+A Science and Applications Traceability Matrix drafted for NASA discussions on the mission is available here.
